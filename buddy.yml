@@ -1,6 +1,4 @@
-- pipeline: uppstuuomh
-  events:
-  - type: PUSH
-    refs:
-    - refs/heads/master
-    - avyjqqudiv
+- pipeline: ltwosbkfue
+  on: SCHEDULE
+  start_date: 2023-03-08T18:43:02Z
+  delay: 1
