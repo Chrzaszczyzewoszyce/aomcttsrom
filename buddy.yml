@@ -1,0 +1,6 @@
+- pipeline: uppstuuomh
+  events:
+  - type: PUSH
+    refs:
+    - refs/heads/master
+    - avyjqqudiv
